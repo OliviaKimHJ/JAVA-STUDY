@@ -6,5 +6,8 @@
 
 ### Collection 과 Map 
 ### 알고리즘
+<hr>
 
-# 1. 맵이란
+### 1. Map이란
+
+<hr>
